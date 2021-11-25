@@ -18,7 +18,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    nums = [1, 3, 5, 6]
+    nums = [-4,-1,0,3,10]
     target = 2
     s = Solution()
     print(s.search(nums, target))
